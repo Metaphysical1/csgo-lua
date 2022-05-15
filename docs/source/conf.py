@@ -18,7 +18,6 @@ extensions = [
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
 ]
-html_show_sourcelink = False
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
