@@ -17,7 +17,9 @@ Contents
    Hooks
    Entities
    Helpers
+   Input
    Engine
    Globals
    Draw
    Gui
+   Examples
