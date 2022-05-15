@@ -1,13 +1,7 @@
-Welcome to Lumache's documentation!
+Official oxidehook lua documentaion
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+To get started with scripting for oxidehook, script files are located in ``documents/oxidehook/scripts``
 
 .. note::
 
@@ -18,5 +12,5 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   Types
+   Classes
