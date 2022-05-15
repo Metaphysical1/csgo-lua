@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'LUA Documentation'
+copyright = '2022, Saul Goodman'
+author = 'Saul'
 
 release = '0.1'
 version = '0.1.0'
@@ -18,6 +18,7 @@ extensions = [
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
 ]
+html_show_sourcelink = False
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
