@@ -6,11 +6,11 @@ To hook a function, use ``hookFunction`` function, example:
 
 .. code-block:: lua
 
-  function myFunction(cmd)
+   function myFunction(cmd)
 
-  end
+   end
 
-  hookFunction(myFunction,"on_create_move")
+   hookFunction(myFunction,"on_create_move")
 
 
 Hooks destinations
