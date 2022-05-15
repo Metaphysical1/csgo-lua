@@ -3,14 +3,14 @@ Globals
 
 Methods
 
-===============================
-Method                          
-===============================
-getRealTime
-getFrameCount
-getAbsoluteFrameTime
-getCurrentTime
-getMaxClients
-getTickCount
-getIntervalPerTick
-===============================
+=============================== ===============================
+Method                           Return
+=============================== ===============================
+getRealTime                     number
+getFrameCount                   number
+getAbsoluteFrameTime            number
+getCurrentTime                  number
+getMaxClients                   number
+getTickCount                    number
+getIntervalPerTick              number
+=============================== ===============================
