@@ -70,13 +70,54 @@ Fields
 
 entity
 ------
-==== ====
-Name Description
-==== ====
-a    d
-b    e
-c    f
-==== ====
+=============================== =============================== 
+Name                            Description
+=============================== =============================== 
+isDormant
+isAlive
+isPlayer
+isWeapon
+isPistol
+isSniperRifle
+isGrenade
+isVisible
+isVisibleTo
+isFullAuto
+isInReload
+isBot
+isSpotted
+isScoped
+isDefusing
+isPinPulled
+isFlashed
+hasDefuser
+hasHelmet
+getEyePosition
+getEyeAngles
+getAimPunch
+getAimPunchAngle
+getViewPunchAngle
+getBonePosition
+getMaxDesyncAngle
+getOrigin
+getAbsOrigin
+getVelocity
+getPlayerName
+getIndex
+getHealth
+getArmor
+getMoney
+getLastPlaceName
+getUserId
+getSteamId
+getActiveWeapon
+getWeaponType
+getWeaponSubType
+getInaccuracy
+getSpread
+getShotsFired
+getDefinitionIndex
+=============================== =============================== 
 
 usercmd
 -------
