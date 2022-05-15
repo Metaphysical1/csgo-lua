@@ -4,13 +4,14 @@ Hooks
 To hook a function, use ``hookFunction`` function, example:
 
 
-```lua
-function myFunction(cmd)
+.. code-block:: lua
 
-end
+  function myFunction(cmd)
 
-hookFunction(myFunction,"on_create_move")
-```
+  end
+
+  hookFunction(myFunction,"on_create_move")
+
 
 Hooks destinations
 ------------------
