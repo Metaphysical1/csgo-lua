@@ -1,11 +1,12 @@
 Types
 =====
 
-vector 2
+vector2
+=======
+
+vector3
 --------
-vector 3
---------
-vector 4
+vector4
 --------
 entity
 ------

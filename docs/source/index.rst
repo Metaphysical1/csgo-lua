@@ -1,7 +1,7 @@
 Official oxidehook lua documentaion
 ===================================
 
-To get started with scripting for oxidehook, script files are located in ``documents/oxidehook/scripts``
+To get started with scripting for oxidehook, script files are located in ``Documents/oxidehook/scripts``
 
 .. note::
 
@@ -12,5 +12,5 @@ Contents
 
 .. toctree::
 
-   Types
+   User types
    Classes
