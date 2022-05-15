@@ -71,7 +71,7 @@ Fields
 entity
 ------
 =============================== =============================== 
-Name                            Description
+Method                          Description
 =============================== =============================== 
 isDormant
 isAlive
@@ -119,12 +119,71 @@ getShotsFired
 getDefinitionIndex
 =============================== =============================== 
 
-usercmd
+playerResource
+--------------
+
+=============================== =============================== 
+Method                          Description
+=============================== =============================== 
+score
+color
+competitiveWins
+competitiveRanking
+musicID
+activeCoinRank
+hasC4
+=============================== =============================== 
+
+userCmd
 -------
+
+=============================== =============================== 
+Method                          Description
+=============================== =============================== 
+commandNumber
+tickCount
+viewangles
+aimdirection
+forwardmove
+sidemove
+upmove
+buttons
+impulse
+weaponselect
+weaponsubtype
+randomSeed
+mousedx
+mousedy
+hasbeenpredicted
+=============================== =============================== 
+
+
 
 gameEvent
 ---------
 
+=============================== =============================== 
+Method                          Description
+=============================== =============================== 
+getName
+getInt
+getFloat
+getString
+setInt
+setString
+=============================== =============================== 
 
 viewSetup
 ---------
+
+=============================== =============================== 
+Method                          Description
+=============================== =============================== 
+fov
+origin
+angles
+farZ
+nearViewmodelZ
+farViewmodelZ
+aspectRatio
+=============================== =============================== 
