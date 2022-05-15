@@ -3,13 +3,14 @@ Hooks
 
 To hook a function, use ``hookFunction`` function, example:
 
-``
+
+```lua
 function myFunction(cmd)
 
 end
 
 hookFunction(myFunction,"on_create_move")
-``
+```
 
 Hooks destinations
 ------------------
