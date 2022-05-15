@@ -14,3 +14,10 @@ Contents
 
    User types
    Classes
+   Hooks
+   Entities
+   Helpers
+   Engine
+   Globals
+   Draw
+   Gui
