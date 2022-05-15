@@ -11,11 +11,11 @@ Name					Type					Description
 =====================	=====================	=====================
 X						float					pitch
 Y						float					yaw
-
+=====================	=====================	=====================
 
 vector3
 --------
-Basic container of 2 floats
+Basic container of 3 floats
 Fields
 
 =====================	=====================	=====================
@@ -32,9 +32,11 @@ normalize
 crossProduct
 toAngle
 fromAngle
+=====================	=====================	=====================
 
 vector4
 --------
+
 entity
 ------
 
