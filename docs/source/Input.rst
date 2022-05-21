@@ -4,7 +4,7 @@ Input
 Methods
 
 =============================== ===============================
-Method                           return
+Method                           Return
 =============================== ===============================
 getMousePos                     vector2
 isKeyDown                       bool

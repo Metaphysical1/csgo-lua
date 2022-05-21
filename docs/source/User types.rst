@@ -98,7 +98,6 @@ getAimPunch
 getAimPunchAngle
 getViewPunchAngle
 getBonePosition
-getMaxDesyncAngle
 getOrigin
 getAbsOrigin
 getVelocity
