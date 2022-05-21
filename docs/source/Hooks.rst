@@ -31,6 +31,7 @@ Examples
 --------
 
 .. code-block:: lua
+
    fovOverride = 0
    
    function scriptSettings()
