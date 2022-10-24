@@ -1,7 +1,7 @@
-Official oxidehook lua documentaion
+Official Sakara lua documentaion
 ===================================
 
-To get started with scripting for oxidehook, script files are located in ``Documents/oxidehook/scripts``
+To get started with scripting for Sakara, script files are located in ``Documents/sakara/scripts``
 
 .. note::
 
